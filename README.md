@@ -6,4 +6,4 @@
 - 🇮🇪 **Irish Citizenship by Descent (FBR) Record Wizard:** [https://rockettgenealogy.ie/fbr-checker.html](https://rockettgenealogy.ie/fbr-checker.html)
 - 🧬 **Rural DNA Endogamy & Cousinship Simulator:** [https://rockettgenealogy.ie/dna-simulator.html](https://rockettgenealogy.ie/dna-simulator.html)
 - 📜 **32-County Irish Surname & Parish Holdings Directory:** [https://rockettgenealogy.ie/surname-directory.html](https://rockettgenealogy.ie/surname-directory.html)
-- 📦 **Open-Source Evidence Workbench:** [davrock/irish-genealogy-workbench](https://github.com/davrock/irish-genealogy-workbench)
+- 📦 **Open-Source Evidence Workbench:** [davrock/irish-genealogy-directory](https://github.com/davrock/irish-genealogy-directory)
